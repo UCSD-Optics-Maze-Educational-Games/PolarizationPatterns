@@ -1,8 +1,8 @@
-# Polarized Patterns
+# Polarization Patterns
 
 ## Purpose & Educational Goals
 
-**Polarized Patterns** is an interactive educational game designed to teach people fundamental concepts in optics, specifically **light polarization phenomena**. By combining hands-on filter manipulation with riddle-solving challenges, this game makes abstract optical physics concepts tangible and engaging.
+**Polarization Patterns** is an interactive educational game designed to teach people fundamental concepts in optics, specifically **light polarization phenomena**. By combining hands-on filter manipulation with riddle-solving challenges, this game makes abstract optical physics concepts tangible and engaging.
 
 Students learn about:
 - Light polarization and polarizing filters
